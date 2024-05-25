@@ -1,1 +1,1 @@
-# smart_tourist
+# Tourist Chatbot - Mira
