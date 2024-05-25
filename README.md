@@ -1,2 +1,1 @@
-# tourist-chat-bot
-Smart Tourist Chatbot - Mira
+# smart_tourist
